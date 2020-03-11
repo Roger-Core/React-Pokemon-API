@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Pokemon-API/static/css/main.95dec386.chunk.css",
+    "main.js": "/React-Pokemon-API/static/js/main.2a18e70d.chunk.js",
+    "main.js.map": "/React-Pokemon-API/static/js/main.2a18e70d.chunk.js.map",
+    "runtime-main.js": "/React-Pokemon-API/static/js/runtime-main.8f8795a6.js",
+    "runtime-main.js.map": "/React-Pokemon-API/static/js/runtime-main.8f8795a6.js.map",
+    "static/js/2.abc4a146.chunk.js": "/React-Pokemon-API/static/js/2.abc4a146.chunk.js",
+    "static/js/2.abc4a146.chunk.js.map": "/React-Pokemon-API/static/js/2.abc4a146.chunk.js.map",
+    "index.html": "/React-Pokemon-API/index.html",
+    "precache-manifest.76d45d7937ac73db8e9c7fb82fd4b481.js": "/React-Pokemon-API/precache-manifest.76d45d7937ac73db8e9c7fb82fd4b481.js",
+    "service-worker.js": "/React-Pokemon-API/service-worker.js",
+    "static/css/main.95dec386.chunk.css.map": "/React-Pokemon-API/static/css/main.95dec386.chunk.css.map",
+    "static/js/2.abc4a146.chunk.js.LICENSE.txt": "/React-Pokemon-API/static/js/2.abc4a146.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f8795a6.js",
+    "static/js/2.abc4a146.chunk.js",
+    "static/css/main.95dec386.chunk.css",
+    "static/js/main.2a18e70d.chunk.js"
+  ]
+}
